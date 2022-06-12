@@ -8,7 +8,6 @@
  * Patch Notes: This version fixes some formatting issues when drawing
  * an ace card. Also adds money to track score of the player. The player
  * can now wager money as long as they have more than $0.
- * 
  */
 
 
